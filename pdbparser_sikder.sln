@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pdbparser_sikder", "pdbparser_sikder\pdbparser_sikder.pyproj", "{50A984AD-0E7F-40B0-8ECA-C67042362D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50A984AD-0E7F-40B0-8ECA-C67042362D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A984AD-0E7F-40B0-8ECA-C67042362D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12BF8E5F-31F4-4CAB-8AF4-1AEFBE1D9433}
+	EndGlobalSection
+EndGlobal
